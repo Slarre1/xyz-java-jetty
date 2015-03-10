@@ -1,6 +1,6 @@
 #xyz-java-jetty
 
-Docker container for a jetty server that deploys sample.war in the server root
+Docker container for a jetty server that builds and deploys a sample webapp
 
 **Build:**
 
